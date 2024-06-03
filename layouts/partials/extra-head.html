@@ -1,5 +1,4 @@
 {{- if .Site.Params.defaultTheme -}}
-<script>localStorage.getItem('prefers-color-scheme') || localStorage.setItem('prefers-color-scheme', '{{ .Site.Params.defaultTheme }}');</script>
 <script>localStorage.getItem('theme') || localStorage.setItem('theme', '{{ .Site.Params.defaultTheme }}');</script>
 <script>localStorage.setItem('secret', 'Rm91bmQgbWUhCg==');</script>
 {{- end -}}
