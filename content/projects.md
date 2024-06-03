@@ -8,9 +8,18 @@ ___
 
 Table of contents
 
-- [Sherlock](#sherlock)
-- [svcman](#svcman)
-- [Windex](#windex)
+- [Sherlock](#sherlock)  
+No. 1 most popular OSINT utility on GitHub
+- [Service Manager](#svcman)  
+Graphical service manager for systemd (indev)
+- [Windex](#windex)  
+Windows de-Microsoftization tool focused on virtualization
+
+Licenses vary, but most projects are governed by MIT Expat or GPLv3.
+
+Free as in speech \~ and \~ free as in beer.
+
+___
 
 ## Sherlock
 
@@ -22,18 +31,18 @@ Sherlock has been packaged for penetration testing distributions [Kali][ext-kali
 
 [Siddharth Dushantha][ext-sdushantha] is the original author of the project, where I am now a primary maintainer and developer alongside.
 
-**Focal points:** Python / Regression / Bot-detection circumvention / Packaging
+**Technical:** Python / Regression / Bot-detection circumvention / Packaging
 
 
-## svcman
+## Service Manager
 
 https://github.com/svcman/svcman
 
 svcman (Service Manager) is a current work in progress.
 
-Working to develop the first truly user friendly graphical service monitor + manager for systemd to be available via the official respositories.
+Working to develop the first user friendly graphical service monitor + manager for systemd to be available via the official respositories.
 
-**Focal points:** C++ / Qt / CMake / Linux kernel / systemd / dbus
+**Technical:** C++ / Qt / CMake / Linux kernel / systemd / dbus
 
 
 ## Windex
@@ -48,7 +57,7 @@ Windex has **zero** dependency on additional software (unlike Atlas and others),
 
 Despite PowerShell not having native support for YAML, Windex can be used to parse and execute Ansible-style playbooks, allowing for unbelievably easy extension and customization.
 
-**Focal points:** PowerShell / Automation / Windows kernel
+**Technical:** PowerShell / Automation / Windows kernel
 
 
 <!-- Outbound -->
