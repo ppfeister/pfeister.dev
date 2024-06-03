@@ -1,4 +1,33 @@
-baseURL = 'https://pfeister.dev/'
-languageCode = 'en-us'
-title = 'Paul Pfeister'
-theme = 'hello-friend-ng'
+baseURL = "https://pfeister.dev/"
+languageCode = "en-us"
+title = "Paul Pfeister"
+theme = "hello-friend-ng"
+enableRobotsTXT = true
+
+[params]
+    defaultTheme = "dark"
+    description = "Portfolio of Paul Pfeister"
+    homeSubtitle =  "Security researcher, open source developer, and technology consultant"
+    keywords = "Security Researcher, Security Engineer, Software Engineer, Bug Bounty Hunter, Sherlock Project"
+    enableThemeToggle = false
+    social = [
+        { name = "github", url = "https://github.com/ppfeister" }
+        , { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" }
+        , { name = "telegram", url = "https://t.me/ppfeister" }
+        , { name = "keybase", url = "https://keybase.io/ppfeister" }
+    ]
+
+[params.author]
+    name = "Paul Pfeister"
+
+[params.footer]
+    #trademark = 2024
+    copyright = false
+    author = false
+    rss = false
+    #toptext = ["Paul Pfeister"]
+    bottomtext = ["EC68 CB3A 2653 02B7"]
+
+[params.logo]
+    #logoMark = ">"
+    logoText = "whoami"
