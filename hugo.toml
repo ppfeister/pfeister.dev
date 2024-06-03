@@ -34,15 +34,27 @@ enableRobotsTXT = true
     logoCursorColor = "#03f8fc"
     logoCursorPathname = true
 
+#[permalinks]
+#  posts = "/posts/:month/:year/:slug/"
+
 [menu]
   [[menu.main]]
     identifier = "home"
     name = "Home"
     url = ""
     weight = 1
+#  [[menu.main]]
+#    identifier = "posts"
+#    name = "Posts"
+#    url = "/posts/"
+#    weight = 2
+#  [[menu.main]]
+#    identifier = "cve"
+#    name = "CVE"
+#    url = "/cve/"
+#    weight = 3
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 2
-
+    weight = 4
