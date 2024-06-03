@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: https://pfeister.dev/contact
+Expires: 2025-06-30T04:00:00.000Z
+Encryption: https://keys.openpgp.org/search?q=3DE8EC43BA5B9DCFB22B58A8EC68CB3A265302B7
+Preferred-Languages: en
+Canonical: https://pfeister.dev/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT0oDZ//LINYqvVzSZw0zqWy9eplAUCZl1NpQAKCRBw0zqWy9ep
+lHu8AP9/ONOva79IfezFJV0kgjbDOMChvqveHz59lXxKOV3czAD+LLV3rnuo1TuL
+AYvlpMjsu0n1McvHzGQlTj9fVrGM+As=
+=ZZ8u
+-----END PGP SIGNATURE-----
