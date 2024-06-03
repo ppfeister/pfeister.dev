@@ -11,10 +11,10 @@ enableRobotsTXT = true
     keywords = "Security Researcher, Security Engineer, Software Engineer, Bug Bounty Hunter, Sherlock Project"
     enableThemeToggle = true
     social = [
-        { name = "github", url = "https://github.com/ppfeister" }
-        , { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" }
-        , { name = "telegram", url = "https://t.me/ppfeister" }
-        , { name = "keybase", url = "https://keybase.io/ppfeister" }
+        { name = "github", url = "https://github.com/ppfeister" },
+        { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" },
+        { name = "telegram", url = "https://t.me/ppfeister" },
+        { name = "keybase", url = "https://keybase.io/ppfeister" },
     ]
 
 [params.author]
