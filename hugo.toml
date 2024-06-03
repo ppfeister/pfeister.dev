@@ -7,7 +7,7 @@ enableRobotsTXT = true
 [params]
     defaultTheme = "dark"
     description = "Portfolio of Paul Pfeister"
-    homeSubtitle =  "Security researcher, open source developer, and technology consultant"
+    #homeSubtitle =  "Security researcher, open source developer, and technology consultant"
     keywords = "Security Researcher, Security Engineer, Software Engineer, Bug Bounty Hunter, Sherlock Project"
     enableThemeToggle = false
     social = [
