@@ -24,7 +24,7 @@ https://github.com/sherlock-project/sherlock
 
 Sherlock is the **#1** most starred, trafficked, and forked OSINT tool available on GitHub, allowing researchers and investigators to hunt down social media accounts by username across 400+ curated platforms and websites.
 
-Sherlock has been packaged for penetration testing distributions [Kali][ext-kali] and [BlackArch][ext-blackarch], along with brand new officially supported images on [DockerHub][ext-dockerhub] and [PyPI][ext-pypi]. We have community-supported packaged available for [Debian][ext-debian], [Homebrew][ext-homebrew], PureOS, Raspbian, NixOS, and others.
+Sherlock has been packaged for penetration testing distributions [Kali][ext-kali], [Parrot Security][ext-parrot], and [BlackArch][ext-blackarch], along with new officially supported images on [DockerHub][ext-dockerhub] and [PyPI][ext-pypi]. We have community-supported packages available for [Debian][ext-debian], [Homebrew][ext-homebrew], PureOS, Raspbian, NixOS, and others.
 
 [Siddharth Dushantha][ext-sdushantha] is the original author of the project, where I am now a primary maintainer and developer alongside.
 
@@ -60,6 +60,7 @@ Despite PowerShell not having native support for YAML, Windex can be used to par
 <!-- Outbound -->
 
 [ext-kali]: https://www.kali.org/
+[ext-parrot]: https://www.parrotsec.org/
 [ext-blackarch]: https://blackarch.org/
 [ext-dockerhub]: https://hub.docker.com/r/sherlock/sherlock
 [ext-pypi]: https://pypi.org/project/sherlock-project/
