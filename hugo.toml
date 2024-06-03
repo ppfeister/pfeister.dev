@@ -9,7 +9,7 @@ enableRobotsTXT = true
     description = "Portfolio of Paul Pfeister"
     #homeSubtitle =  "Security researcher, open source developer, and technology consultant"
     keywords = "Security Researcher, Security Engineer, Software Engineer, Bug Bounty Hunter, Sherlock Project"
-    enableThemeToggle = false
+    enableThemeToggle = true
     social = [
         { name = "github", url = "https://github.com/ppfeister" }
         , { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" }
