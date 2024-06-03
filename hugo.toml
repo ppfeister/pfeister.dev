@@ -31,3 +31,11 @@ enableRobotsTXT = true
 [params.logo]
     #logoMark = ">"
     logoText = "whoami"
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    #weight = 1
+
