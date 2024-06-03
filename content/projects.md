@@ -20,7 +20,7 @@ Sherlock is the **#1** most starred, trafficked, and forked OSINT tool available
 
 Sherlock has been packaged for penetration testing distributions [Kali][ext-kali] and [BlackArch][ext-blackarch], along with brand new officially supported images on [DockerHub][ext-dockerhub] and [PyPI][ext-pypi]. We have community-supported packaged available for [Debian][ext-debian], [Homebrew][ext-homebrew], PureOS, Raspbian, NixOS, and others.
 
-_[Siddharth Dushantha][ext-sdushantha] is the original author of the project, where I am now a primary maintainer and developer alongside._
+[Siddharth Dushantha][ext-sdushantha] is the original author of the project, where I am now a primary maintainer and developer alongside.
 
 **Focal points:** Python / Regression / Bot-detection circumvention / Packaging
 
