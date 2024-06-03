@@ -30,8 +30,9 @@ enableRobotsTXT = true
 
 [params.logo]
     #logoMark = ">"
-    logoText = "whoami"
+    logoText = "~/"
     logoCursorColor = "#03f8fc"
+    logoCursorPathname = true
 
 [menu]
   [[menu.main]]

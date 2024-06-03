@@ -1,5 +1,5 @@
 +++
-title = 'Projects'
+title = 'Recent Projects'
 date = 2024-06-02T00:00:00+00:00
 draft = false
 +++
