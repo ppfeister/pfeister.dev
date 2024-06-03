@@ -8,12 +8,9 @@ ___
 
 Table of contents
 
-- [Sherlock](#sherlock)  
-No. 1 most popular OSINT utility on GitHub
-- [Service Manager](#svcman)  
-Graphical service manager for systemd (indev)
-- [Windex](#windex)  
-Windows de-Microsoftization tool focused on virtualization
+- [Sherlock](#sherlock) . . . No. 1 most trafficked OSINT utility on GitHub
+- [Service Manager](#svcman) . . . Graphical service manager for systemd (indev)
+- [Windex](#windex) . . . Windows de-Microsoftization tool focused on virtualization
 
 Licenses vary, but most projects are governed by MIT Expat or GPLv3.
 
