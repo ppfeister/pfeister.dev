@@ -37,22 +37,25 @@ enableRobotsTXT = true
 #[permalinks]
 #  posts = "/posts/:month/:year/:slug/"
 
+[taxonomies]
+    tag = "tags"
+
 [menu]
   [[menu.main]]
     identifier = "home"
     name = "Home"
     url = ""
     weight = 1
-#  [[menu.main]]
-#    identifier = "posts"
-#    name = "Posts"
-#    url = "/posts/"
-#    weight = 2
-#  [[menu.main]]
-#    identifier = "cve"
-#    name = "CVE"
-#    url = "/cve/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    identifier = "cve"
+    name = "Disclosures"
+    url = "/tags/disclosure/"
+    weight = 3
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
