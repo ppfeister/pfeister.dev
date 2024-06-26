@@ -1,7 +1,7 @@
 ---
 title: "TBA"
 type: ["posts","post"]
-tags: ["Disclosure"]
+categories: ["Disclosures"]
 date: "2024-06-03"
 author: "Paul Pfeister"
 ---

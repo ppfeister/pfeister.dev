@@ -16,17 +16,17 @@ enableRobotsTXT = true
         { name = "telegram", url = "https://t.me/ppfeister" },
         { name = "keybase", url = "https://keybase.io/ppfeister" },
     ]
-
-[params.author]
-    name = "Paul Pfeister"
+    author = "Paul Pfeister"
+    gitUrl = "https://github.com/ppfeister/pfeister.dev/commit/"
 
 [params.footer]
-    #trademark = 2024
+    #trademark = "2024"
     copyright = false
     author = false
-    rss = false
+    rss = true
     #toptext = ["Paul Pfeister"]
-    bottomtext = ["EC68 CB3A 2653 02B7"]
+    toptext = ["EC68 CB3A 2653 02B7"]
+    #bottomtext = ["EC68 CB3A 2653 02B7"]
 
 [params.logo]
     #logoMark = ">"
@@ -34,11 +34,13 @@ enableRobotsTXT = true
     logoCursorColor = "#03f8fc"
     logoCursorPathname = true
 
-#[permalinks]
-#  posts = "/posts/:month/:year/:slug/"
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
 
 [taxonomies]
     tag = "tags"
+    category = "categories"
+    series   = "series"
 
 [menu]
   [[menu.main]]
@@ -54,7 +56,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "cve"
     name = "Disclosures"
-    url = "/tags/disclosure/"
+    url = "/categories/disclosures/"
     weight = 3
   [[menu.main]]
     identifier = "projects"
