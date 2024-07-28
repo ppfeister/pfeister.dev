@@ -8,6 +8,7 @@ ___
 
 Table of contents
 
+- [Oculus](#oculus) . . . Novel OSINT utility automating the link between User ID and Real ID
 - [Sherlock](#sherlock) . . . No. 1 most trafficked OSINT utility on GitHub
 - [Service Manager](#svcman) . . . Graphical service manager for systemd (indev)
 - [Windex](#windex) . . . Windows de-Microsoftization tool focused on virtualization
@@ -17,6 +18,17 @@ Licenses vary, but most projects are governed by MIT Expat or GPLv3.
 Free as in speech \~ and \~ free as in beer.
 
 ___
+
+## Oculus
+
+https://github.com/ppfeister/oculus
+
+Oculus is undergoing rapid development, and may soon take on a different name. As it stands today, Oculus is a novel OSINT utility that is meant to address many of the shortcomings that existing solutions present. Many tools only provide the first step of a search, querying known usernames, email addresses, etc, or do a poor job of combining solutions, a la maigret, flooded with false positives and poor detections. Commercial solutions that do this properly are costly.
+
+More information to come.
+
+**Technical:** Python / Selenium / FlareSolverr / Pandas / Bot-detection circumvention
+
 
 ## Sherlock
 
