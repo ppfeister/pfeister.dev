@@ -37,7 +37,7 @@ author: "Paul Pfeister"
 - 🛠️ Manifest schema added for regression testing and better in-IDE UX ([#2212]) [@ppfeister]
 - 🛠️ Added detection mechanism for users running via legacy/unsupported methods ([#2213]) [@ppfeister]
 - 🛠️ ‼️ Dependency [__torrequest__][ext-torrequest] made optional ([#2215]) [@ppfeister] [@matheusfelipeog] 
-  - --tor and --unique-tor are now DEPRECATED (see detail below)
+  - \-\-tor and \-\-unique\-tor are now DEPRECATED (see detail below)
 - 🛠️ ‼️ Deprecated support for Python 3.6 and 3.7 (now ^3.8)
 - 🛠️ Several minor UX improvements over the course of development
 - 🏷️ Adopted properly tagged releases help out our downstream packagers
