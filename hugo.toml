@@ -10,6 +10,8 @@ enableRobotsTXT = true
     #homeSubtitle =  "Security researcher, open source developer, and technology consultant"
     keywords = "Security Researcher, Security Engineer, Software Engineer, Bug Bounty Hunter, Sherlock Project"
     enableThemeToggle = true
+    #enableSharingButtons = true
+    disableReadOtherPosts = true
     social = [
         { name = "github", url = "https://github.com/ppfeister" },
         { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" },
@@ -17,7 +19,12 @@ enableRobotsTXT = true
         { name = "keybase", url = "https://keybase.io/ppfeister" },
     ]
     author = "Paul Pfeister"
-    gitUrl = "https://github.com/ppfeister/pfeister.dev/commit/"
+
+#[params.utterances]
+#    repository = "ppfeister/pfeister.dev-utterances"
+#    issueTerm = "pathname"
+#    label = "utterances"
+#    theme = "photon-dark"
 
 [params.footer]
     #trademark = "2024"

@@ -1,5 +1,5 @@
 ---
-title: "TBA"
+title: "* Archive in process of being migrated *"
 type: ["posts","post"]
 categories: ["Disclosures"]
 date: "2024-06-03"
