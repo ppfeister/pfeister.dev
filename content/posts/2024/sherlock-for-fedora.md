@@ -11,7 +11,7 @@ tags:
 - "Fedora"
 - "Sherlock Project"
 cover: "/images/sherlock-demo-cropped.png"
-#CoverCaption: "Sherlock demo"
+CoverCaption: "Upstream repository : https://github.com/sherlock-project/sherlock"
 toc: false
 date: "2024-06-26T02:45:00-04:00"
 #lastmod: "2024-06-26T02:45:00-03:00"
