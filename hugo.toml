@@ -42,7 +42,8 @@ enableRobotsTXT = true
     logoCursorPathname = true
 
 [permalinks]
-  posts = "/posts/:year/:month/:slug/"
+  #posts = "/posts/:year/:month/:slug/"
+  posts = "/posts/:year/:slug/"
 
 [taxonomies]
     tag = "tags"
