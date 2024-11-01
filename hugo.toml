@@ -16,7 +16,9 @@ enableRobotsTXT = true
         { name = "github", url = "https://github.com/ppfeister" },
         { name = "linkedin", url = "https://www.linkedin.com/in/paulpfeister/" },
         { name = "telegram", url = "https://t.me/ppfeister" },
-        { name = "keybase", url = "https://keybase.io/ppfeister" },
+        { name = "signal", url = "https://signal.me/#eu/Am2SwqldFQIj9wYSiwj_--LjIGW1WwH6wp014BLOYrU-JqxA0OlDEaxSw_HnnY3x" },
+        #{ name = "keybase", url = "https://keybase.io/ppfeister" },
+        #{ name = "case", url = "https://astera.systems" },
     ]
     author = "Paul Pfeister"
 
@@ -62,8 +64,8 @@ enableRobotsTXT = true
     url = "/posts/"
     weight = 2
   [[menu.main]]
-    identifier = "cve"
-    name = "Disclosures"
+    identifier = "disclosures"
+    name = "Disclosures (CVEs)"
     url = "/categories/disclosures/"
     weight = 3
   [[menu.main]]
@@ -71,3 +73,7 @@ enableRobotsTXT = true
     name = "Projects"
     url = "/projects/"
     weight = 4
+
+[services]
+    [services.googleAnalytics]
+        id = "G-K83S73N54X"
